@@ -26,7 +26,7 @@ SECRET_KEY = 'ew5@xy981^lwm3@_cdal4((2+m95e8zx-qtips9v5_idr0exwr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['reacttdj.herokuapp.com']
+ALLOWED_HOSTS = ['reacttdj.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
